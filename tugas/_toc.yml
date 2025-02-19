@@ -5,4 +5,3 @@ format: jb-book
 root: intro
 chapters:
 - file: About_Me
-  title: About Me
